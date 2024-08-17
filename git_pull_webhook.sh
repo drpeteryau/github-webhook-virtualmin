@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Set permission
+# sudo chmod +x /usr/local/bin/git_pull_webhook.sh
+
 # Set the path to your project directory
 PROJECT_DIR="/path/to/your/project"
 
